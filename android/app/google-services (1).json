@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "697775294033",
+    "project_id": "ohm-project-sky",
+    "storage_bucket": "ohm-project-sky.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697775294033:android:743540bc35a6e13ce0da70",
+        "android_client_info": {
+          "package_name": "com.example.learningdartom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697775294033-13tanmoqp4gr61vcaud6mhab9gm9ktpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk4SLDLwsTybfTTqHK56vMISPAvgzXRNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697775294033-13tanmoqp4gr61vcaud6mhab9gm9ktpb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
